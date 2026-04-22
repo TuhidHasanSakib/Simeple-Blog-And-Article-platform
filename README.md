@@ -1,4 +1,4 @@
-# Oredoo - Laravel Multi User Blog Project
+# Simple Blog & article
 
 A multi user blog project using Laravel 10 and Oredoo blog template
 
@@ -30,7 +30,7 @@ A multi user blog project using Laravel 10 and Oredoo blog template
 
 - Clone this repository
 ```
-git clone https://github.com/alsayeedar/oredoo-laravel-blog-project.git
+git clone https://github.com/TuhidHasanSakib/Simeple-Blog-And-Artical-platform.git
 ```
 - Change directory
 ```
